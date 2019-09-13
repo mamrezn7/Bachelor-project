@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mamrez.sample",
+      "nativeLanguage": "fa"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "monolith",
+    "baseName": "SampleMvn",
+    "packageName": "com.mamrez.sample",
+    "packageFolder": "com/mamrez/sample",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZTYyNzVmNjYzMjM2M2ViZTIzNDIyMTg2ZDA5NjgxMjI1N2QyYjZiNjQwOThlN2IxZDY5ODlhZmQyNmM3YzNmNjRlZWZmM2Q3ZjRiZTFhNzdkMDg3YTc5ZTQwNTE3MDExOTQ2MzlkMmIwOTUzNDRmMjYwY2RmMDZlNzBhYWIwOWQ=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "darkly",
+    "clientThemeVariant": "primary",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fa",
+    "languages": ["fa"],
+    "blueprints": []
+  }
+}
