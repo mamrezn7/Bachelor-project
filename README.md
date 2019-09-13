@@ -1,7 +1,5 @@
 # SampleMvn
 
-This application was generated using JHipster 6.2.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.2.0](https://www.jhipster.tech/documentation-archive/v6.2.0).
-
 ## Development
 
 Before you can build this project, you must install and configure the following dependencies on your machine:
